@@ -5,7 +5,11 @@ their performance levels in terms of retrieval effectiveness.
 
 # Snippet Generation
 
+![Snippet](/images/snippet_generation)
+
 # Query Suggestion
+
+![Query Suggestion ](/images/query_suggestion)
 
 # Comparison Results
 
